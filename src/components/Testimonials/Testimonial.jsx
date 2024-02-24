@@ -15,7 +15,7 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "I had a fantastic experience working with Company XYZ Web Solutions. They were attentive to my needs, communicated effectively throughout the process, and delivered a stunning website that exceeded my expectations. I highly recommend their services.",
+        "I had a fantastic experience working with this company. They were attentive to my needs, communicated effectively throughout the process, and delivered a stunning website that exceeded my expectations. I highly recommend their services.",
     },
     {
       img: profilePic2,
