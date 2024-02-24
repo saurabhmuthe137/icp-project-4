@@ -15,7 +15,7 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "I had a fantastic experience working with Company XYZ Web Solutions. They were attentive to my needs, communicated effectively throughout the process, and delivered a stunning website that exceeded my expectations. I highly recommend their services.",
     },
     {
       img: profilePic2,
