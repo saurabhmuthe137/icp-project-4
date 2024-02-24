@@ -27,9 +27,9 @@ const Services = () => {
         <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
         <span>services</span>
         <spane>
-          Lorem ispum is simpley dummy text of printing of printing Lorem
-          <br />
-          ispum is simpley dummy text of printing
+        A portfolio website is a curated, online space that showcases your best work. <br /> It's one of the most practical and memorable ways <br /> to share your work with press, potential collaborators or employers. <br /> Much like your PDF portfolio, a portfolio website can be <br /> used when applying for jobs or internships.
+         
+        
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
