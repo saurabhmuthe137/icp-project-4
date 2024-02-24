@@ -20,7 +20,7 @@ const Testimonial = () => {
     {
       img: profilePic2,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+      "Having a portfolio review means getting a professional's opinion on your work. You get to lay out what you're shooting, how you do it, and talk about how your current approach serves those goals",
     },
     {
       img: profilePic3,
@@ -30,7 +30,7 @@ const Testimonial = () => {
     {
       img: profilePic4,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+      "A professional's opinion on your work. You get to lay out what you're shooting, how you do it, and talk about how your current approach serves those goals.",
     },
   ];
 
